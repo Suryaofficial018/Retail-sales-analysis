@@ -96,18 +96,15 @@ Purpose: Convert dashboard insights into actionable business decisions using sto
 ---
 
 ## 📁 Project Structure
+
 retail-sales-analysis/
 │
-├── data/
-│   └── zudio_sales_data.csv
-│
-├── python/
-│   └── retail_sales_analysis.ipynb
-│
-├── dashboards/
-│   ├── powerbi_dashboard.pbix
-│   └── tableau_story.twbx
-│
+├── zudiosalesdata.py
+├── zudio_sales_data_cleaned.csv
+├── ZUDIO-Retail_Sales_Data_Analytics_Project.pptx
+├── dashboard_sales_overview.png
+├── dashboard_product_performance.png
+├── dashboard_regional_performance.png
 └── README.md
 ## 💡 Business Insights
 
